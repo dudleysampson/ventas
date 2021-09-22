@@ -1,2 +1,2 @@
-# ventas1
+# ventas
 programa de ventas
